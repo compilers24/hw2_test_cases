@@ -1,0 +1,4 @@
+Expected Behavior:
+
+    Scanner: Identifies tokens correctly.
+    Parser: Throws an error indicating x is used without being declared.

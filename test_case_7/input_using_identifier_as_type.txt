@@ -1,0 +1,5 @@
+program TestError7;
+var x: y;
+begin
+  x := 10;
+end.

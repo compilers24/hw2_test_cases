@@ -1,0 +1,4 @@
+program Test10;
+begin
+  x := 10;
+end.

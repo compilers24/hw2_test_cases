@@ -1,0 +1,23 @@
+program testProgram;
+
+var a, b: integer;
+    c: integer;
+    name, greeting: string;
+
+begin
+
+a := 42;
+
+b := a + 16;
+
+c := a + b;
+
+c := c - 35;
+
+name := "Alice";
+
+greeting := "Hello";
+
+b := c - a;
+
+end.

@@ -1,0 +1,7 @@
+program Test3;
+var x: integer;
+var name: string;
+
+begin
+  x := 42;
+end.

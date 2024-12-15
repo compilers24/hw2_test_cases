@@ -1,0 +1,4 @@
+Expected Behavior:
+
+    Scanner: Successfully identifies tokens.
+    Parser: Throws an error because the := operator is missing in the assignment statement.

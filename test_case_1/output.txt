@@ -1,0 +1,11 @@
+Scanner
+
+The scanner will tokenize the input correctly:
+
+Parser
+
+    The parser should:
+        Start parsing varDefs upon encountering the first "var".
+        Accept varSeq entries following the { varSeq } rule.
+        Close varDefs after encountering a non-variable declaration (e.g., begin).
+    When it encounters a second "var" keyword, it should throw an error, as the grammar does not permit varDefs to appear more than once.

@@ -1,0 +1,4 @@
+Expected Behavior:
+
+    Scanner: Successfully identifies tokens.
+    Parser: Throws an error because y is not a valid type (integer or string).

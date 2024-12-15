@@ -1,0 +1,4 @@
+Expected Behavior:
+
+    Scanner: Successfully identifies tokens.
+    Parser: Throws an error because the arithmetic operation involves incompatible types (integer and string).

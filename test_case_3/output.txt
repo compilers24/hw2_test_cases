@@ -1,0 +1,4 @@
+Expected Behavior:
+
+    Scanner: Successfully identifies tokens.
+    Parser: Throws an error because x is declared twice with conflicting types.

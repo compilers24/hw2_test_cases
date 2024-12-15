@@ -1,0 +1,5 @@
+program TestError5;
+var x, y: integer;
+begin
+  x := y + "10";
+end.

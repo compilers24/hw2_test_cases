@@ -1,0 +1,11 @@
+
+program test;
+
+var a: string; b: integer;
+
+begin
+
+a := "Hello";
+b := 8;
+
+end.

@@ -1,0 +1,5 @@
+program TestError3;
+var x: integer; x: string;
+begin
+  x := 10;
+end.
